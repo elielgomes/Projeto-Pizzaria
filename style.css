@@ -291,61 +291,246 @@ color: #a9a9a9;
             margin: auto;
             width: 804px ;
          }
+
+         #logo-footer > a > img {
+            width: 100px;
+        }
+        #logo-footer{
+        margin: 40px 17px 0px 10px; }
+    
 }
 
 @media screen and (max-width: 860px){
 
     #redes-sociais > a > img {
-        height: 37px; 
+    height: 37px; 
     }
     #redes-sociais {
-        margin-left: 50px;
+    margin-left: 50px;
     }
 
     #vetor-esquerda {
-        margin-top: 70px;
-        width: 200px;
-        margin-left: 20px;
+    margin-top: 70px;
+    width: 200px;
+    margin-left: 20px;
     }
 
     #vetor-direita {
-        margin-top: 70px;
-        width: 200px;
-        margin-right: 20px;
+    margin-top: 70px;
+    width: 200px;
+    margin-right: 20px;
     }
 
     #container-banner {
-        margin-top: 50px;
-        display: flex;
-     }
+    margin-top: 50px;
+    display: flex;
+    }
+
      #banner-1 {
-        margin: auto;
-        width: 700px ;
-     }
+    margin: auto;
+    width: 700px ;
+    }
 
     section.menu {
-        margin: auto;
-        display: flex;
-        justify-content: space-between ;
-        flex-wrap: wrap;
-        width: 700px;
-        margin-top: 100px ;
-        margin-bottom: 140px;
-        }
+    margin: auto;
+    display: flex;
+    justify-content: space-between ;
+    flex-wrap: wrap;
+    width: 700px;
+    margin-top: 100px ;
+    margin-bottom: 140px;
+    }
     
     section.menu > div , section.menu > div > img {
-        width: 340px;
-        height: 285px;
-        margin-bottom: 20px ;
-        background-color: #6e281e;
-        }
+    width: 340px;
+    height: 285px;
+    margin-bottom: 20px ;
+    background-color: #6e281e;
+    }
 
-       #img-menu {
-        height: 33px;
-       }
+    #img-menu {
+    height: 33px;
+    }
 
-       #faixa-menu > p {
-        margin-top: 58px;
-        font-size: 90px;
+    #faixa-menu > p {
+    margin-top: 49px;
+    font-size: 112px;
+    }
+
+    footer > section#footer-info {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 700px;
+    }
+
+    div#nav-footer {
+        margin: 35px 54px 0px 0px;
+    }
         
+    li > p, .telefone {
+    font-family: 'Signika', sans-serif;
+    font-size: 15px;
+    }
+
+    #redes-sociais-footer {
+    margin: 27px 0px 0px 99px;
+    }
+
+    #logo-footer > a > img {
+        width: 100px;
+    }
+
+}
+
+@media screen and (max-width: 750px) {
+    #banner-1 {
+        margin: auto;
+        width: 550px;
+    }
+
+    #faixa-menu {
+        margin-top: 55px;
+        height: 70px;
+    }
+
+    #faixa-menu > p {
+        margin-top: 28px;
+        font-size: 90px;
+    }
+
+    #vetor-direita {
+        margin-top: 45px;
+    }
+
+    #vetor-esquerda {
+        margin-top: 45px;
+    }
+
+    section.menu {
+        width: 550px;
+        margin-top: 50px;
+        margin-bottom: 100px;
+    }
+    section.menu > div, section.menu > div > img {
+        width: 265px;
+        height: 220px;
+        margin-bottom: 20px;
+        background-color: #6e281e;
+    }
+
+    footer > section#footer-info {
+        width: 550px;
+    }
+    
+    #logo-footer > a > img {
+        width: 100px;
+    }
+
+    #redes-sociais-footer {
+        margin: 27px 0px 0px 25px;
+    }
+
+}
+
+@media screen and (max-width: 645px){
+
+    #logo-principal > a > img {
+    width: 120px;
+    }
+    #redes-sociais {
+    margin-left: 0px;
+    }
+
+    #vetor-esquerda {
+    margin-top: 41px;
+    width: 140px;
+    margin-left: 20px;
+    }
+
+    #vetor-direita {
+    margin-top: 41px;
+    width: 140px;
+    margin-right: 20px;
+    }
+
+    #faixa-menu {
+    margin-top: 55px;
+    height: 60px;
+    }
+    #faixa-menu > p {
+    margin-top: 26px;
+    font-size: 76px;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    
+    #banner-1 {
+        margin: auto;
+        width: 450px;
+    }
+    #redes-sociais > a > img {
+        padding-left: 20px;
+        height: 28px;
+    }
+    section.menu {
+        width: 450px;
+        margin-top: 50px;
+        margin-bottom: 100px;
+    }
+    section.menu > div, section.menu > div > img {
+        width: 220px;
+        height: 190px;
+        margin-bottom: 10px;
+        background-color: #6e281e;
+    }
+
+    #logo-footer {
+        display: none;
+    }
+    footer > section#footer-info {
+        width: 450px;
+    }
+    div#nav-footer {
+        margin: 35px 54px 0px 10px;
+    }
+    
+}
+
+@media screen and (max-width: 490px) {
+
+    #logo-principal {
+        margin-left: 10px;
+    }
+    #banner-1 {
+        margin: auto;
+        width: 340px;
+    }
+    section.menu {
+        display: block;
+        margin: auto;
+        width: 340px;
+        margin-top: 50px;
+        margin-bottom: 100px;
+    }
+    section.menu > div, section.menu > div > img {
+        margin: auto;
+        width: 220px;
+        height: 190px;
+        margin-bottom: 20px;
+        background-color: #6e281e;
+    }
+    #faixa-menu {
+        margin-top: 39px;
+        height: 60px;
+    }
+    #vetor-esquerda {
+    width: 100px;
+    }
+
+    #vetor-direita {
+    width: 100px;
+    }
 }
