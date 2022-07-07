@@ -533,4 +533,75 @@ color: #a9a9a9;
     #vetor-direita {
     width: 100px;
     }
+
+    #footer-info {
+    flex-wrap: wrap;
+    }
+
+    footer > section#footer-info {
+        width: 340px;
+    }
+    li > p, .telefone {
+        font-size: 12px;
+    }
+
+    div#nav-footer > ul {
+        font-size: 22px;
+    }
+
+    #redes-sociais-footer > ul > li {
+     display: inline-block;
+    
+    }
+    #redes-sociais-footer{
+    margin: auto;
+    }
+    #img-menu {
+        height: 27px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+
+    #redes-sociais{
+        display: none;
+    }
+
+    #icone-menu {
+        margin-right: 30px;
+    }
+   
+    #faixa-menu {
+     justify-content: center;
+     height: 40px;
+    }
+    #faixa-menu > p {
+        margin-top: 15px;
+        font-size: 60px;
+    }
+
+    #vetor-direita, #vetor-esquerda {
+    display: none;
+    }
+
+    #container-banner {
+     margin-top:40px;
+    }
+    
+    section.menu {
+     margin-top: 40px;
+    }
+
+}
+@media screen and (max-width:320px){
+    #banner-1 {
+        width: 300px;
+    }
+    footer > section#footer-info {
+        width: 300px;
+    }
+    div#nav-footer {
+    margin: 35px 0px 0px 10px;
+    }
+    
 }
