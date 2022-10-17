@@ -42,7 +42,6 @@ const Porcao = () =>{
         },
     ] 
 
-
     useEffect(()=>{
         setPorcao(porcoes)
     },[])
