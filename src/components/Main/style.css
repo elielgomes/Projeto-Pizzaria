@@ -1,0 +1,24 @@
+#container-banners{
+    margin: auto;
+    max-width: 1140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 20px;
+}
+
+#ribbon-menu {
+    background-color: #6e281e;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#text-menu {
+    color: #fff;
+    font-size: 120px;
+    font-family: 'Italianno', cursive;
+    font-weight: lighter;
+    margin-top: 25px;
+}

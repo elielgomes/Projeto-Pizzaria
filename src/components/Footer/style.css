@@ -1,0 +1,92 @@
+footer{
+    background-color: #222222;
+    height: 290px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+#container-footer-content{
+    margin: auto;
+    max-width: 1500px;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#container-brand-footer{
+    margin: 30px 10px 0px 20px;
+}
+
+#container-infos {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 80px 30px 0px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container-infos h2{
+    font-size: 40px;
+    border-bottom: 1px solid;
+    transition: 0.2s;
+}
+
+#container-infos span{
+    margin-right: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.5);
+    transition: 0.2s;
+}
+
+a:hover{
+    color: rgba(255, 255, 255, 0.815);
+}
+
+#container-icons-footer{
+    margin: 50px 20px 0px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+#container-icons-footer svg{
+    width: 40px;
+    color: rgba(255, 255, 255, 0.5);
+    transition: 0.2s;
+}
+
+#container-icons-footer svg:hover{
+    color: rgba(255, 255, 255, 0.815);
+}
+
+@media (max-width: 768px){
+
+    footer{
+        height: 400px;
+    }
+
+    #container-brand-footer img{
+        width: 150px;
+    }
+
+    #container-infos{
+        margin: 30px 30px 0px 30px;
+    }
+
+    #container-icons-footer{
+        margin-top: 15px;
+        flex-direction: row;
+    }
+
+}
+
+@media (max-width: 425px){
+
+    #container-infos{
+        margin: 0px 30px 0px 30px;
+    }
+}
+

@@ -1,0 +1,59 @@
+header{
+    background-color: #222222;
+}
+
+#nav{
+    margin: auto;
+    max-width: 1500px;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#nav-brand{
+    width: 160px;
+    margin-left: 30px;
+}
+
+#container-icons {
+    margin-right: 40px;
+}
+
+#container-icons svg{
+    width: 60px;
+    margin-left: 20px;
+    color: rgba(255, 255, 255, 0.5);
+    transition: 0.2s;
+}
+
+#container-icons svg:hover{
+    color: rgba(255, 255, 255, 0.842) ;
+}
+
+#flag{
+    height: 48px;
+    background-color: #fff ;
+    border-top: 16px solid #6e281e;
+    border-bottom: 16px solid #5b6e29;
+}
+
+@media (max-width: 768px){
+    #nav-brand {
+        width: 140px;
+    }
+    #container-icons svg{
+        width: 40px;
+    }
+    
+}
+
+@media (max-width: 425px){
+
+    #nav-brand {
+        width: 100px;
+    }
+    #container-icons svg{
+        width: 30px;
+    }
+}
