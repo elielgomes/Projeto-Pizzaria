@@ -29,7 +29,21 @@
 
 # 🛠️ Funcionalidades e Demonstração da Aplicação
 
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/108281436/196503873-8feeace4-729f-400d-8de3-bb11e15cdfbe.png/>"
+</p>
+  
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/108281436/196503839-d1768bd9-312b-4d12-88b0-69113db58abe.png"/>
+</p>
+    
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/108281436/196503846-3942e2a1-0668-4aad-8cbb-4f5ef8f60f0a.png"/>
+</p>
 
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/108281436/196503853-aa191851-678c-4f4c-928c-b5bb5433c1e7.png"/>
+</p>
 
 # 🔑 Acesso ao Projeto
 
