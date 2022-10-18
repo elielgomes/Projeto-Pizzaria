@@ -23,6 +23,7 @@
 
 # ✏️ Descrição do Projeto
 
+Este projeto é uma página de pizzaria fictícia onde  utilizei o Figma e o  Adobe Photoshop para a criação da marca e layout da página, nele estou utilizando a biblioteca React Js para estruturar o projeto em componentes funcionais, o objetivo do projeto foi construir uma página de apresentação de uma pizzaria, sendo  totalmente funcional e visualmente agradável, utilizando cores e imagens selecionadas para melhorar o design,  o projeto é compatível com todos os navegadores e seu design responsivo o torna compatível com  diferentes dispositivos, é possível  também fazer alterações como adicionar ou remover produtos apenas modificando um componente no código fonte do projeto o que o torna totalmente versátil, podendo ser estruturado de acordo com a necessidade do cliente. 
  
 # 📈 Status do Projeto
 ![Frame 16](https://user-images.githubusercontent.com/108281436/192803852-d0a0e110-a351-4eb9-ad0e-95cb36a0bb49.png)
