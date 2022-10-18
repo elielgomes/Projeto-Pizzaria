@@ -11,7 +11,7 @@ const Header = () =>{
 
                 <div id="container-brand">
                     <Link to="/">
-                     <img id="nav-brand" src="public/assets/icones/Logo-Pizza-pq.png" alt="Brand" />
+                     <img id="nav-brand" src="/public/assets/icones/Logo-Pizza-pq.png" alt="Brand" />
                     </Link>
 
                 </div>

@@ -12,7 +12,6 @@ const Routes = () => {
     <BrowserRouter>
       <Switch>
         <Route exact path='/' element={<Home/>} />
-
         <Route exact path='/pizzas-salgadas' element={<PizzaSalgada/>}/>
         <Route exact path='/pizzas-doces' element={<PizzaDoce/>}/>
         <Route exact path='/porcoes' element={<Porcao/>}/>
