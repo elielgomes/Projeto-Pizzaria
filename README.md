@@ -30,13 +30,18 @@
 # 🛠️ Funcionalidades e Demonstração da Aplicação
 
 <h2 align="center">
-  Tela Principal na versão mobile
+  Tela Principal na versão Mobile
 </h2>
 
 <p align='center'>
   <img src="https://user-images.githubusercontent.com/108281436/196503873-8feeace4-729f-400d-8de3-bb11e15cdfbe.png"/>
 </p>
   
+  
+<h2 align="center">
+  Tela Principal na versão Desktop
+</h2> 
+
 <p align='center'>
   <img src="https://user-images.githubusercontent.com/108281436/196503839-d1768bd9-312b-4d12-88b0-69113db58abe.png"/>
 </p>
