@@ -33,8 +33,8 @@
 
 # 🔑 Acesso ao Projeto
 
-[![Acesso](https://user-images.githubusercontent.com/108281436/192802838-0c7abeda-f41a-4c34-86c7-ead30e2b223c.png)](https://game-mario-nine.vercel.app/) <br>
-ou acesse direto pelo link https://game-mario-nine.vercel.app/
+[![Acesso](https://user-images.githubusercontent.com/108281436/192802838-0c7abeda-f41a-4c34-86c7-ead30e2b223c.png)](https://pizzaria-coral.vercel.app/) <br>
+ou acesse direto pelo link https://pizzaria-coral.vercel.app/
 
 # 👨🏻‍💻 Tecnologias utilizadas
 
