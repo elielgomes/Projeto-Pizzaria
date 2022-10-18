@@ -10,7 +10,7 @@ const Footer = () => {
                 <div id="container-footer-content">
     
                     <div id="container-brand-footer">
-                        <img src="/public/assets/icones/Logo-Pizza-pq.png" alt="Brand" />
+                        <img src="/assets/icones/Logo-Pizza-pq.png" alt="Brand" />
                     </div>
     
                     <div id="container-infos">

@@ -9,35 +9,35 @@ const Porcao = () =>{
 
     let porcoes = [ 
         {
-            image: "/public/assets/porcao/porcao-1.jpg",
+            image: "/assets/porcao/porcao-1.jpg",
             text: "Kibe"
         },
         {
-            image: "/public/assets/porcao/porcao-2.jpg",
+            image: "/assets/porcao/porcao-2.jpg",
             text: "Frango a passarinho"
         },
         {
-            image: "/public/assets/porcao/porcao-3.jpg",
+            image: "/assets/porcao/porcao-3.jpg",
             text: "Frios"
         },
         {
-            image: "/public/assets/porcao/porcao-4.jpg",
+            image: "/assets/porcao/porcao-4.jpg",
             text: "Salgadinhos"
         },
         {
-            image: "/public/assets/porcao/porcao-5.jpg",
+            image: "/assets/porcao/porcao-5.jpg",
             text: "Batata com bacon"
         },
         {
-            image: "/public/assets/porcao/porcao-6.jpg",
+            image: "/assets/porcao/porcao-6.jpg",
             text: "Mandioca frita"
         },
         {
-            image: "/public/assets/porcao/porcao-7.jpg",
+            image: "/assets/porcao/porcao-7.jpg",
             text: "Torresmo"
         },
         {
-            image: "/public/assets/porcao/porcao-8.jpg",
+            image: "/assets/porcao/porcao-8.jpg",
             text: "Peixe frito"
         },
     ] 

@@ -29,19 +29,19 @@ export default function App() {
         className="mySwiper"
       >
         <SwiperSlide>
-          <img src="/public/assets/home/banner-1.jpg" alt="Banner-1" />
+          <img src="/assets/home/banner-1.jpg" alt="Banner-1" />
         </SwiperSlide>
 
         <SwiperSlide>
-          <img src="/public/assets/home/banner-2.jpg" alt="Banner-2" />
+          <img src="/assets/home/banner-2.jpg" alt="Banner-2" />
         </SwiperSlide>
 
         <SwiperSlide>
-          <img src="/public/assets/home/banner-3.jpg" alt="Banner-3" />
+          <img src="/assets/home/banner-3.jpg" alt="Banner-3" />
         </SwiperSlide>
 
         <SwiperSlide>
-          <img src="/public/assets/home/banner-4.jpg" alt="Banner-4" />
+          <img src="/assets/home/banner-4.jpg" alt="Banner-4" />
         </SwiperSlide>
       </Swiper>
     </>
