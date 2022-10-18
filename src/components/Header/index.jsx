@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from 'react-router-dom'
 import "./style.css";
 
 const Header = () =>{
@@ -9,7 +10,10 @@ const Header = () =>{
             <nav id="nav">
 
                 <div id="container-brand">
-                    <img id="nav-brand" src="src/assets/icones/Logo-Pizza-pq.png" alt="Brand" />
+                    <Link to="/">
+                     <img id="nav-brand" src="public/assets/icones/Logo-Pizza-pq.png" alt="Brand" />
+                    </Link>
+
                 </div>
 
                 <div id="container-icons">

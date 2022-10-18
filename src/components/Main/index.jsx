@@ -11,13 +11,14 @@ const Main = () => {
             <main>
                 <div id="container-banners">
                     <Carousel/>
+                    <span class="loader"></span>
                 </div>
 
                 <div id="ribbon-menu">
                     <h1 id="text-menu">
                       Menu
                     </h1>
-              </div>
+                </div>
             </main>
         </>
     );

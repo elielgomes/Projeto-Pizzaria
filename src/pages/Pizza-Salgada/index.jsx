@@ -9,35 +9,35 @@ const PizzaSalgada = () =>{
 
     let pizzasSalgadas = [ 
         {
-            image: "src/assets/pizza-salgada/pizza-salgada-1.jpg",
+            image: "public/assets/pizza-salgada/pizza-salgada-1.jpg",
             text: "Frango com catupiry"
         },
         {
-            image: "src/assets/pizza-salgada/pizza-salgada-2.jpg",
+            image: "public/assets/pizza-salgada/pizza-salgada-2.jpg",
             text: "Carne e queijo"
         },
         {
-            image: "src/assets/pizza-salgada/pizza-salgada-3.jpg",
+            image: "public/assets/pizza-salgada/pizza-salgada-3.jpg",
             text: "Portuguesa"
         },
         {
-            image: "src/assets/pizza-salgada/pizza-salgada-4.jpg",
+            image: "public/assets/pizza-salgada/pizza-salgada-4.jpg",
             text: "Bacon"
         },
         {
-            image: "src/assets/pizza-salgada/pizza-salgada-5.jpg",
+            image: "public/assets/pizza-salgada/pizza-salgada-5.jpg",
             text: "Milho"
         },
         {
-            image: "src/assets/pizza-salgada/pizza-salgada-6.jpg",
+            image: "public/assets/pizza-salgada/pizza-salgada-6.jpg",
             text: "Napolitana"
         },
         {
-            image: "src/assets/pizza-salgada/pizza-salgada-7.jpg",
+            image: "public/assets/pizza-salgada/pizza-salgada-7.jpg",
             text: "Vegana"
         },
         {
-            image: "src/assets/pizza-salgada/pizza-salgada-8.jpg",
+            image: "public/assets/pizza-salgada/pizza-salgada-8.jpg",
             text: "Mista"
         },
     ] 
