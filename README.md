@@ -30,7 +30,7 @@
 # 🛠️ Funcionalidades e Demonstração da Aplicação
 
 <p align='center'>
-  <img src="https://user-images.githubusercontent.com/108281436/196503873-8feeace4-729f-400d-8de3-bb11e15cdfbe.png/>"
+  <img src="https://user-images.githubusercontent.com/108281436/196503873-8feeace4-729f-400d-8de3-bb11e15cdfbe.png"/>
 </p>
   
 <p align='center'>
