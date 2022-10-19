@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, } from "react-router-dom";
 
 import Home from "./pages/Home";
 import PizzaSalgada from "./pages/Pizza-Salgada";
@@ -19,7 +19,7 @@ function App(){
         <Route path='/pizzas-doces' element={<PizzaDoce/>}/>
         <Route path='/porcoes' element={<Porcao/>}/>
         <Route path='/drinks' element={<Drink/>}/>
-        <Route path='*' element={<NotFound404/>}/>
+        <Route path='/*' element={<NotFound404/>}/>
 
       </Routes>
     </BrowserRouter>
@@ -27,6 +27,8 @@ function App(){
 };
 
 function NotFound404() {
+
+  useLocation()
   return (
     <div>
       <Header />
