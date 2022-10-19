@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes as Switch, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Home from "./pages/Home";
 import PizzaSalgada from "./pages/Pizza-Salgada";
@@ -11,14 +11,14 @@ import NotFound from "./pages/NotFound";
 const Routes = () => {
   return (
     <BrowserRouter>
-      <Switch>
-        <Route exact path='/' element={<Home/>} />
-        <Route exact path='/pizzas-salgadas' element={<PizzaSalgada/>}/>
-        <Route exact path='/pizzas-doces' element={<PizzaDoce/>}/>
-        <Route exact path='/porcoes' element={<Porcao/>}/>
-        <Route exact path='/drinks' element={<Drink/>}/>
+      <Routes>
+        <Route path='/' element={<Home/>} />
+        <Route path='/pizzas-salgadas' element={<PizzaSalgada/>}/>
+        <Route path='/pizzas-doces' element={<PizzaDoce/>}/>
+        <Route path='/porcoes' element={<Porcao/>}/>
+        <Route path='/drinks' element={<Drink/>}/>
         <Route path='/*' element={<NotFound/>}/>
-      </Switch>
+      </Routes>
     </BrowserRouter>
   );
 };
