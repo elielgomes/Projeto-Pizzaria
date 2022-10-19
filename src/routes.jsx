@@ -8,7 +8,7 @@ import Porcao from "./pages/Porcao";
 import Drink from "./pages/Drink";
 import NotFound from "./pages/NotFound";
 
-const Routes = () => {
+const AllRoutes = () => {
   return (
     <BrowserRouter>
       <Routes>
@@ -24,4 +24,4 @@ const Routes = () => {
 };
 
 
-export default Routes;
+export default AllRoutes;
