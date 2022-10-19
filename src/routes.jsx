@@ -17,7 +17,7 @@ const Routes = () => {
         <Route exact path='/pizzas-doces' element={<PizzaDoce/>}/>
         <Route exact path='/porcoes' element={<Porcao/>}/>
         <Route exact path='/drinks' element={<Drink/>}/>
-        <Route path='*' element={<NotFound/>}/>
+        <Route path='/*' element={<NotFound/>}/>
       </Switch>
     </BrowserRouter>
   );
