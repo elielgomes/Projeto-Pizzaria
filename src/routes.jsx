@@ -6,6 +6,10 @@ import PizzaSalgada from "./pages/Pizza-Salgada";
 import PizzaDoce from "./pages/Pizza-Doce";
 import Porcao from "./pages/Porcao";
 import Drink from "./pages/Drink";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import "./style.css"
+
 // import NotFound from "./pages/404";
 
 
@@ -28,7 +32,6 @@ function App(){
 
 function NotFound404() {
 
-  useLocation()
   return (
     <div>
       <Header />
