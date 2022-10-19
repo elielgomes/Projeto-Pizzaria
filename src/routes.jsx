@@ -7,7 +7,7 @@ import PizzaDoce from "./pages/Pizza-Doce";
 import Porcao from "./pages/Porcao";
 import Drink from "./pages/Drink";
 
-import NotFound from "./pages/404";
+import NoMatch from "./pages/NoMatch";
 
 
 function App(){
@@ -23,7 +23,7 @@ function App(){
           <Route path='pizzas-doces' element={<PizzaDoce/>}/>
           <Route path='porcoes' element={<Porcao/>}/>
           <Route path='drinks' element={<Drink/>}/>
-          <Route path='*' element={<NotFound/>}/>
+          <Route path='*' element={<NoMatch/>}/>
         </Route>
 
       </Routes>

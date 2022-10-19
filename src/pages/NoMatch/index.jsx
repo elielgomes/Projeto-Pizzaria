@@ -2,7 +2,7 @@ import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 import "./style.css";
 
-const NotFound = () => {
+const NoMatch = () => {
   return (
     <>
       <Header />
@@ -20,4 +20,4 @@ const NotFound = () => {
   );
 };
 
-export default NotFound;
+export default NoMatch;
