@@ -55,8 +55,17 @@ Este projeto é uma página de pizzaria fictícia onde  utilizei o Figma e o  Ad
   <img src="https://user-images.githubusercontent.com/108281436/196503853-aa191851-678c-4f4c-928c-b5bb5433c1e7.png"/>
 </p>
 
+<h2 align="center">
+  Telas Pagina não encontrada personalizadas
+</h2>
+
 <p align='center'>
   <img src="https://user-images.githubusercontent.com/108281436/196764543-23807f69-27d5-4b27-8662-e73236ec58fc.png"/>
+</p>
+
+
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/108281436/196765990-95752290-157a-417c-b596-f3da2ddd7c46.png"/>
 </p>
 
 
