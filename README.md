@@ -55,6 +55,11 @@ Este projeto é uma página de pizzaria fictícia onde  utilizei o Figma e o  Ad
   <img src="https://user-images.githubusercontent.com/108281436/196503853-aa191851-678c-4f4c-928c-b5bb5433c1e7.png"/>
 </p>
 
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/108281436/196764543-23807f69-27d5-4b27-8662-e73236ec58fc.png"/>
+</p>
+
+
 # 🔑 Acesso ao Projeto
 
 [![Acesso](https://user-images.githubusercontent.com/108281436/192802838-0c7abeda-f41a-4c34-86c7-ead30e2b223c.png)](https://pizzaria-coral.vercel.app/) <br>
