@@ -6,6 +6,7 @@ import PizzaSalgada from "./pages/Pizza-Salgada";
 import PizzaDoce from "./pages/Pizza-Doce";
 import Porcao from "./pages/Porcao";
 import Drink from "./pages/Drink";
+import NotFound from "./pages/NotFound";
 
 const Routes = () => {
   return (
@@ -16,6 +17,7 @@ const Routes = () => {
         <Route exact path='/pizzas-doces' element={<PizzaDoce/>}/>
         <Route exact path='/porcoes' element={<Porcao/>}/>
         <Route exact path='/drinks' element={<Drink/>}/>
+        <Route path='*' element={<NotFound/>}/>
       </Switch>
     </BrowserRouter>
   );

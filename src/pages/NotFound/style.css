@@ -1,0 +1,31 @@
+#container-notfound{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 100px 0px;
+}
+
+#container-image{
+    max-width: 845px;
+    padding: 30px;
+}
+
+img{
+    width: 100%;
+}
+
+h1#text-notfound{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    font-size: 40px;
+    color: #222222;
+}
+
+@media (max-width: 320px){
+    h1#text-notfound{
+        font-size: 30px;
+    }
+
+
+}
